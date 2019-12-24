@@ -79,5 +79,5 @@ champ_df.drop(['info', 'stats'], axis = 1, inplace = True)
 
 
 # writing to csv
-champ_df.to_csv('D:/Python/league_of_legends/champions.csv', index = False)
+champ_df.to_csv('D:/Python/league_of_legends/data/champions.csv', index = False)
 
