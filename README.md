@@ -7,6 +7,7 @@ Includes data analysis from matches pulled from kaggle and pca clustering of all
 
 ### Methods Used
 * PCA
+* t-sne
 * kmeans
 * Image pre-processing
 
