@@ -7,7 +7,7 @@ Includes data analysis from matches pulled from kaggle and pca clustering of all
 
 ### Methods Used
 * PCA
-* t-sne
+* t-SNE
 * kmeans
 * Image pre-processing
 
@@ -25,6 +25,12 @@ I wanted to cluster champions by both their in-game stats and their appearance. 
 Check out my notebooks and scripts for more details! (work in progress)
 
 ## Conclusion & Next Steps
+Good project all in all! I learned a lot about different dimensionality reduction techniques in addition to gaining some skills in image filter and working with apis. 
+
+Next Steps:
+* Perform PCA/t-SNE on champion splash art as that would theoretically provide more data to draw features from
+* Look for matches and perform some exploratory analysis
+* Further modularize code, including building different python files for visualization
 
 ## Contact
 Feel free to email me at shawnliu30@gmail.com if you want to talk about this project or data science in general!
