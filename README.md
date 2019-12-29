@@ -22,7 +22,7 @@ League of Legends is a team oriented video game where on two team teams (with 5 
 I wanted to cluster champions by both their in-game stats and their appearance. This will hopefully yield some insights about how champions were designed and also some cool visualizations.
 
 ## Description of my Current Process
-Check out my notebooks and scripts for more details! (work in progress)
+Check out my notebooks and scripts for more details!
 
 ## Conclusion & Next Steps
 Good project all in all! I learned a lot about different dimensionality reduction techniques in addition to gaining some skills in image filter and working with apis. 
