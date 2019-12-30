@@ -1,5 +1,5 @@
 # league-of-legends
-Includes data analysis from matches pulled from kaggle and pca clustering of all champions.
+Includes pca/t-sne clustering of all champions.
 
 #### -- Project Status: [Active]
 
