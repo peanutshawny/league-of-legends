@@ -1,5 +1,5 @@
 # league-of-legends
-Includes pca/t-sne clustering of all champions.
+Includes pca/t-sne clustering of all champion images taken from the Riot API.
 
 #### -- Project Status: [Active]
 
