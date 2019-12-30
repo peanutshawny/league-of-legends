@@ -46,7 +46,7 @@ image_urls = list(champs_df['image'])
 splash_urls = list(champs_df['splash'])
 champ_names = list(champs_df['name'])
 
-# creating dict with names as the key
+# creating dict with names as the key to set as name
 images_dict = dict(zip(champ_names, image_urls))
 splashes_dict = dict(zip(champ_names, splash_urls))
 
